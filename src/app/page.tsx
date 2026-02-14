@@ -440,7 +440,7 @@ export default function Home() {
           letterSpacing: '-0.03em',
           lineHeight: 1.2,
         }}>
-          Puzzle Story
+          A Gift For You, My Love 💕
         </h1>
 
         {/* Instructions */}
@@ -453,7 +453,7 @@ export default function Home() {
           lineHeight: 1.6,
           fontWeight: '400',
         }}>
-          Piece us together to reveal the surprise I made for you.
+          Solve this puzzle to uncover a special message waiting just for you.
         </p>
 
         {/* Preview Image Button */}
