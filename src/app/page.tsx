@@ -732,7 +732,7 @@ export default function Home() {
                   margin: '0 0 1.25rem 0',
                   letterSpacing: '-0.02em',
                 }}>
-                  For My Baby Girl Nancy 💕
+                  Happy Valentine's Day, My Babii Love 💕
                 </h2>
 
                 {/* Love Message */}
@@ -744,13 +744,13 @@ export default function Home() {
                   fontWeight: '400',
                 }}>
                   <p style={{ margin: '0 0 0.9rem 0' }}>
-                    Just like every puzzle piece finds its place, you hold yours in my heart so perfectly. Even with the distance between us, nothing feels missing — because I carry you with me every day.
+                    On this day of love, I want you to know that you are my favorite person in the entire world. Every beat of my heart whispers your name, and every thought of you makes me smile.
                   </p>
                   <p style={{ margin: '0 0 0.9rem 0' }}>
-                    On your birthday and this Valentine's Day, I want you to know how much you mean to me. No matter how far apart we are, you're still my perfect piece, my person.
+                    You've turned my life into something beautiful — a love story I never want to end. Thank you for being you, for loving me the way you do, and for making every ordinary day feel extraordinary.
                   </p>
                   <p style={{ margin: '0', fontWeight: '500', color: '#ffc4c4' }}>
-                    I love you endlessly, and I can't wait until the day distance is no longer between us. 💖
+                    You are my heart, my soul, my forever Valentine. I love you more than words could ever say. 💖
                   </p>
                 </div>
 

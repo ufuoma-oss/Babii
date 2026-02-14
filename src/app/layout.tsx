@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Puzzle Story 💕",
-  description: "A romantic puzzle gift for my special someone",
+  title: "For My Babii Love 💕",
+  description: "A Valentine's puzzle gift for my special someone",
   keywords: ["puzzle", "love", "romantic", "gift", "valentine"],
   authors: [{ name: "With Love" }],
   icons: {
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   openGraph: {
-    title: "Puzzle Story 💕",
-    description: "A romantic puzzle gift for my special someone",
+    title: "For My Babii Love 💕",
+    description: "A Valentine's puzzle gift for my special someone",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Puzzle Story 💕",
-    description: "A romantic puzzle gift for my special someone",
+    title: "For My Babii Love 💕",
+    description: "A Valentine's puzzle gift for my special someone",
   },
 };
 
