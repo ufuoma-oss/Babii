@@ -732,7 +732,7 @@ export default function Home() {
                   margin: '0 0 1.25rem 0',
                   letterSpacing: '-0.02em',
                 }}>
-                  For My Dearest Love 💕
+                  For My Baby Girl Nancy 💕
                 </h2>
 
                 {/* Love Message */}
@@ -744,16 +744,13 @@ export default function Home() {
                   fontWeight: '400',
                 }}>
                   <p style={{ margin: '0 0 0.9rem 0' }}>
-                    Just like you put each puzzle piece in its perfect place,
-                    you have perfectly placed yourself in my heart.
+                    Just like every puzzle piece finds its place, you hold yours in my heart so perfectly. Even with the distance between us, nothing feels missing — because I carry you with me every day.
                   </p>
                   <p style={{ margin: '0 0 0.9rem 0' }}>
-                    Every moment with you completes me, just like this puzzle
-                    found its way to become whole again.
+                    On your birthday and this Valentine's Day, I want you to know how much you mean to me. No matter how far apart we are, you're still my perfect piece, my person.
                   </p>
                   <p style={{ margin: '0', fontWeight: '500', color: '#ffc4c4' }}>
-                    You are my missing piece, my perfect match, my everything. 
-                    I love you endlessly. 💖
+                    I love you endlessly, and I can't wait until the day distance is no longer between us. 💖
                   </p>
                 </div>
 
